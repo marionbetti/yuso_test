@@ -1,3 +1,5 @@
+![alt tag](https://github.com/marionbetti/yuso_test/blob/master/yuso.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
