@@ -1,0 +1,61 @@
+.container {
+  text-align: center;
+}
+.intro {
+  color: white;
+}
+#asterix {
+  text-align: left;
+  margin-top: -20px;
+  font-size: 0.9rem;
+}
+.sign {
+  color: rgb(13, 237, 175);
+  padding-top: 5rem;
+}
+.div {
+  border-radius: none;
+}
+#phonenumber,
+#password,
+#referralCode,
+#email,
+#confirmPassword,
+#dateBirth {
+  margin-top: 24px;
+}
+
+#cocher1,
+#cocher2 {
+  text-align: left !important;
+  color: black;
+}
+#cocher1 {
+  margin-top: 40px !important;
+}
+#cocher2 {
+  margin-top: 20px !important;
+}
+.formulaire {
+  padding: 5%;
+  border: 2px solid white;
+  margin-left: 11rem;
+  padding-left: 2.5rem !important;
+  padding-right: 2.5rem !important;
+  padding-top: 8 rem !important;
+  background-color: white;
+}
+.form-control {
+  border: none !important;
+  border-bottom: 1px solid #495057 !important;
+  border-radius: 0 !important;
+}
+.btn {
+  margin-top: 4rem;
+  background-color: rgb(13, 237, 175) !important;
+  color: black;
+  padding: 2px 20px 2px 20px !important;
+}
+.footer {
+  padding-bottom: 5rem;
+}
